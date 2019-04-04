@@ -1,0 +1,6 @@
+$ git log
+commit 1f9951d6256c8805e9b73dfd5580d93dc251faf4 (HEAD -> logs)
+Author: unknown <Tamara.Grche.1@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:24:25 2019 +0200
+
+    Initial commit
