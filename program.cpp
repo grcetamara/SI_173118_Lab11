@@ -4,10 +4,12 @@ using namespace std;
 
 void printMyName () {
 	//TODO
+
 }
 
 void printMyIndex () {
 	//TODO
+
 }
 
 int main () {
